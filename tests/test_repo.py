@@ -4,7 +4,7 @@ import os
 import pandas as pd
 import pytest
 from datetime import datetime, timedelta
-from src.repo_miner import fetch_commits
+from src.repo_miner import fetch_commits, fetch_issues
 
 # --- Helpers for dummy GitHub API objects ---
 
@@ -112,3 +112,77 @@ def test_fetch_commits_empty():
     assert isinstance(df, pd.DataFrame)
     assert len(df) == 0
     assert list(df.columns) == ["sha", "author", "email", "date", "message"]
+
+# --- Tests for fetch_issues ---
+
+def test_fetch_issues_excludes_prs():
+    """Test 1: Verify that pull requests are excluded from results"""
+    global _test_repo
+    now = datetime.now()
+    issues = [
+        DummyIssue(1, 101, "Real Issue", "alice", "open", now, None, 0, is_pr=False),
+        DummyIssue(2, 102, "Pull Request", "bob", "open", now, None, 2, is_pr=True),
+        DummyIssue(3, 103, "Another Issue", "charlie", "closed", now - timedelta(days=2), now, 1, is_pr=False)
+    ]
+    _test_repo = DummyRepo([], issues)
+    df = fetch_issues("any/repo", state="all")
+    
+    # Should only have 2 issues (PRs excluded)
+    assert len(df) == 2
+    assert df.iloc[0]["title"] == "Real Issue"
+    assert df.iloc[1]["title"] == "Another Issue"
+    # Verify no PR in results
+    assert "Pull Request" not in df["title"].values
+
+
+def test_fetch_issues_dates_parse_correctly():
+    """Test 2: Verify that dates are normalized to ISO-8601 format"""
+    global _test_repo
+    now = datetime(2025, 9, 25, 14, 30, 0) 
+    closed = datetime(2025, 9, 28, 10, 15, 0)
+    
+    issues = [
+        DummyIssue(1, 101, "Issue A", "alice", "open", now, None, 0),
+        DummyIssue(2, 102, "Issue B", "bob", "closed", now, closed, 2)
+    ]
+    _test_repo = DummyRepo([], issues)
+    df = fetch_issues("any/repo", state="all")
+    
+    # Check that dates are ISO-8601 strings
+    assert df.iloc[0]["created_at"] == "2025-09-25T14:30:00"
+    assert df.iloc[0]["closed_at"] is None 
+    
+    assert df.iloc[1]["created_at"] == "2025-09-25T14:30:00"
+    assert df.iloc[1]["closed_at"] == "2025-09-28T10:15:00"
+    
+    # Verify ISO-8601 format (contains 'T' separator and proper format)
+    assert 'T' in df.iloc[0]["created_at"]
+    assert 'T' in df.iloc[1]["closed_at"]
+
+
+def test_fetch_issues_open_duration_days_accurate():
+    """Test 3: Verify that open_duration_days is computed accurately"""
+    global _test_repo
+    now = datetime(2025, 9, 1, 12, 0, 0)
+    
+    # Case 1: Issue open for exactly 5 days
+    closed_5days = now + timedelta(days=5)
+    # Case 2: Issue open for 3.5 days (3 days and 12 hours)
+    closed_3_5days = now + timedelta(days=3, hours=12)
+    # Case 3: Still open issue (no closed_at)
+    
+    issues = [
+        DummyIssue(1, 101, "5 Day Issue", "alice", "closed", now, closed_5days, 0),
+        DummyIssue(2, 102, "3.5 Day Issue", "bob", "closed", now, closed_3_5days, 1),
+        DummyIssue(3, 103, "Open Issue", "charlie", "open", now, None, 2)
+    ]
+    _test_repo = DummyRepo([], issues)
+    df = fetch_issues("any/repo", state="all")
+    
+    # Check open_duration_days calculations
+    assert df.iloc[0]["open_duration_days"] == 5.0
+    assert df.iloc[1]["open_duration_days"] == 3.5
+    assert pd.isna(df.iloc[2]["open_duration_days"])  
+    
+    # Verify column exists and has correct type
+    assert "open_duration_days" in df.columns
