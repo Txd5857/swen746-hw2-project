@@ -1,0 +1,6 @@
+sha,author,email,date,message
+dbf7cca2ecec83152dc16d13430f6398e5c692a7,Tenzin,txd5857@rit.edu,2025-10-02T07:07:24+00:00,Add pytest and PyGithub to requirements
+ea5f26ab0b4296b1956fb636422449efab798bae,Tenzin,txd5857@rit.edu,2025-10-02T07:04:18+00:00,Homework 4 Completion
+513c222d59628b57ac050839352706d39c2e4a34,Tenzin,txd5857@rit.edu,2025-09-26T23:40:19+00:00,Implement RM1 commit fetcher
+ba09b398d05fa6e723a96362c1ddbf5d529b0bd8,Tenzin,txd5857@rit.edu,2025-09-16T23:30:39+00:00,Initial project setup with CI workflow
+be3970a8ac8b7551ef64642fe2b742ae8c926e05,Txd5857,txd5857@g.rit.edu,2025-09-16T14:16:23+00:00,Initial commit

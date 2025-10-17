@@ -1,0 +1,101 @@
+sha,author,email,date,message
+55cdeb577125ddd62e0a6a5d1a292f862f34c2be,Paul,paul_wang347@hotmail.com,2025-10-17T00:06:01+00:00,Add prefer device flow config for GitHub auth  (#271838)
+af6adc61cebb854d26c9b0e065df66f6f560080f,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,2025-10-16T23:20:07+00:00,SCM - introduce single selection mode for repositories view (#271831)
+af1cbea727abf8c68e9bb12c3655695112c89950,Tyler James Leonhardt,2644648+TylerLeonhardt@users.noreply.github.com,2025-10-16T23:18:23+00:00,Add `--video` and `--autostart` (#271849)
+e5243d2a178c38c7c48cfbff3cf851c18b4d5a3b,Peng Lyu,penlv@microsoft.com,2025-10-16T23:07:18+00:00,Merge pull request #271845 from microsoft/rebornix/eerie-centipede
+ef4342262138748bac6403648f259acba3f73c24,Peng Lyu,penn.lv@gmail.com,2025-10-16T22:52:52+00:00,Enable sessions view for the team
+0df032fb9f886f574ae3309c5dfb81edade9fd7d,Martin Aeschlimann,martinae@microsoft.com,2025-10-16T21:45:26+00:00,support handoff property in modes (#271710)
+56850a23866471042591e48253d28f2048c8fd64,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,2025-10-16T21:13:29+00:00,Fix for chat uri handler (#271795)
+71a697dd28446a6b12e44bdfe8c69d0a48f90661,Megan Rogge,merogge@microsoft.com,2025-10-16T21:03:01+00:00,"hide copilot terminals by default in insider's, make configurable (#271400)"
+df0eb86a8a791e4cfdf6cb234f03762e94760d51,Martin Aeschlimann,martinae@microsoft.com,2025-10-16T20:00:42+00:00,use isDark to check whether to use a dark or light icon (#271752)
+9d66f9c93f9310be18d491e8cbd8c712f0fcd7bd,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-16T18:51:18+00:00,Merge pull request #271723 from mjbvz/dev/mjbvz/exuberant-shark
+701d67038dc61dfb06ad56bef6215e430be50350,Rob Lourens,roblourens@gmail.com,2025-10-16T18:28:26+00:00,LanguageModelProxy disposable (#271607)
+271a53806100e11d4ad3ff9206a5f1de8945d50b,Bryan Chen,41454397+bryanchen-d@users.noreply.github.com,2025-10-16T17:53:48+00:00,Merge pull request #271414 from microsoft/brchen/chat-autoClosingBrackets
+a1a256617fcdca6fd9593d54da0569ba2b6e493f,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-16T17:45:00+00:00,"Add `resource` to chat session, replacing id"
+329b9861c51789c4ba8aaeaab87882ee6f4cf299,Connor Peet,copeet@microsoft.com,2025-10-16T16:33:28+00:00,debug: fix mislocalized string (#271707)
+6d0d29a429998a5e3f66d103b5c93e9df9ddfcbf,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-16T16:00:20+00:00,Fix High Contrast Light theme icon selection in tree views (#271653)
+b1d81821c49446f446dbda614982ffa1e04b4541,Lee Murray,mrleemurray@gmail.com,2025-10-16T14:11:57+00:00,Merge pull request #271693 from microsoft:mrleemurray/underground-minnow-green
+71b8165adb249038e7233f3677c28ec524209d9a,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-16T14:03:36+00:00,files - clarify watch behaviour better around how delete operations are handled (#271674)
+d1e5492917548c8298ca20ecc84b556dd806f5ff,mrleemurray,lee.murray@microsoft.com,2025-10-16T13:47:32+00:00,feat(codicons): add 'open-in-product' icon (0xec65) and update codicon.ttf
+88c209229b6d89d8b9e362f9f57ed59234f4d1c3,Martin Aeschlimann,martinae@microsoft.com,2025-10-16T13:39:52+00:00,yaml parser: fix property values on next line (#271673)
+00f67f5aef7c0e9d7c35d8c51e85940df5aa44d0,mrleemurray,lee.murray@microsoft.com,2025-10-16T12:42:41+00:00,update close icon and add strikethrough icon
+3add072f87d142a8de947b8376de2c805bd2a6fe,Alex Ross,38270282+alexr00@users.noreply.github.com,2025-10-16T09:50:49+00:00,Add a placeholder for simple file picker (#271655)
+cee904f80cc6d15f22c850482789e06b1f536e72,Martin Aeschlimann,martinae@microsoft.com,2025-10-16T09:48:38+00:00,remove some anys (#271651)
+3a8f6b3483fdd8eb7e1d6483350a0ae00f7bc8c2,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-16T05:36:02+00:00,style - update menu title `Configure Chat` (#271632)
+9722262df14632ac3c1f167a7b162a12a5bee509,Connor Peet,copeet@microsoft.com,2025-10-16T03:18:50+00:00,mcp: fix overeager output focusing in mcp devmode (#271626)
+4ba5084e6654d127ec8c6695f7cbeebbdfd48b4b,Harald Kirschner,hkirschner@microsoft.com,2025-10-16T02:46:54+00:00,Merge pull request #271613 from microsoft/digitarald/unable-minnow
+167e4563fc9af2d6588bc85384b85b61a32cf93e,Harald Kirschner,hkirschner@microsoft.com,2025-10-16T00:16:00+00:00,Merge pull request #271612 from microsoft/digitarald/exciting-bug
+7afe5486a52262fa65fc4e82dc355bcc8de26450,Harald Kirschner,hkirschner@microsoft.com,2025-10-16T00:00:29+00:00,Declare all tools in data prompt
+f8b5d7523f0cc29e0b9556b17cd5c42185b8a3b4,Harald Kirschner,hkirschner@microsoft.com,2025-10-15T23:59:41+00:00,Refactor Build task instructions with tool references
+b074375e1884ae01033967bf0bbceeaa4795354a,Bryan Chen,41454397+bryanchen-d@users.noreply.github.com,2025-10-15T22:15:06+00:00,Merge pull request #270117 from microsoft/brchen/disable-send-button
+6a6502e014d5cfe1f08a672726a0b2d382b150d0,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T21:59:53+00:00,Merge pull request #271595 from mjbvz/dev/mjbvz/territorial-cheetah
+d814050cfc5cf0bad0f874dcaa60233e0b724ea8,Sam Tran,samvantran@github.com,2025-10-15T21:57:43+00:00,Ask for requestIds when labeling capi issues (#271592)
+b7e3214f679fef4d0394834842bfa36cdf01ec8b,Megan Rogge,merogge@microsoft.com,2025-10-15T21:26:18+00:00,bring back copilot terminal icon (#271594)
+7a6864552ef8ad80ae8cbdd3524e3df9cb7586e2,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T21:06:32+00:00,Add example fix for unexternalized strings
+411c8b890c7d19cc12f8270ad439fea0cbc9c862,Rob Lourens,roblourens@gmail.com,2025-10-15T20:37:35+00:00,Tweak to LMProxy API (#271581)
+11190d75283c2d3937de5de17b76aea1c6114e48,Megan Rogge,merogge@microsoft.com,2025-10-15T20:15:27+00:00,rm `isActive` check (#271582)
+b08c2247ae702dd155a6d7874c3a2fd8518b3b24,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T19:08:40+00:00,chat - enable completions/NES for no-auth (#271563)
+5ac5fbf3e8966a7fdf249aa131a8308a19ebf0a7,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T18:46:48+00:00,Merge pull request #271568 from mjbvz/dev/mjbvz/dominant-firefly
+2f5b1d0cc40622a33feb807fb5357ee4bbf84015,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T18:33:45+00:00,Enforce single quote strings in tests too
+dbef60401a3e2460507dc24d508b6ac42563801b,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T18:30:59+00:00,Merge pull request #271548 from mjbvz/dev/mjbvz/puny-fly
+22060b6e9efb8a9770c9c7bc58231824046edd32,Paul,paul_wang347@hotmail.com,2025-10-15T18:29:09+00:00,Fix issues with monitoring dependency tasks (#270839)
+98997404e6e98636d82a47771a1cd1ca3c71708e,Vijay Upadya,41652029+vijayupadya@users.noreply.github.com,2025-10-15T18:24:26+00:00,Show progress indicator when loading chat session items (#271212)
+e8b2531c8b69201b1a5003bcc11071402a7d7087,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T18:16:49+00:00,Merge pull request #271470 from mjbvz/dev/mjbvz/panicky-mockingbird
+ed8e8a52f37c8a7d3362daf5c75da9b9742e0445,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T18:11:43+00:00,Merge pull request #271557 from mjbvz/dev/mjbvz/single-slug
+29eb45f7fe6f5c9ae275aa830048290d3f35f055,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T17:58:57+00:00,Make sure we clear diagnostics when switching to tsgo
+6aeb5973b6c6c3c6f207ebf35536f7377f1e66df,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T17:06:36+00:00,Enforce single quote string usage in main tests
+351866ef1a70a15bb8df1fee84dba84adcbfd687,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,2025-10-15T16:58:39+00:00,chore: use dompurify 3.2.7 (#271538)
+084cf12c5ae2473290d4ef71b0133477c40240fd,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-15T15:42:49+00:00,Add noHistory argument to cursorMove command to skip navigation history (#270385)
+0c7c358d32d2b0125a86f0899605712431fd8e7e,imbant,13634731015@sina.cn,2025-10-15T15:38:14+00:00,fix(chat): correct file icon rendering in Files & Folders picker (#255384)
+a7efa0e6b5c571212558e1624bbbaa208c3afb95,Raymond Zhao,7199958+rzhao271@users.noreply.github.com,2025-10-15T15:37:03+00:00,chore: bump cgmanifest hash (#271392)
+bee1e3bc5c4a5fbfedf5fef468f1d4bc94158c45,Daniel Imms,2193314+Tyriar@users.noreply.github.com,2025-10-15T15:15:21+00:00,Merge pull request #271527 from microsoft/tyriar/chat_attach_hover
+bc01289e90a71b236160d540bc8a647def4fe1c4,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,2025-10-15T15:09:02+00:00,Git - limit the timeline/blame/graph hover commands (#271530)
+27db6613dfcb6a10aead09b3e2b054c6d4dfba61,Daniel Imms,2193314+Tyriar@users.noreply.github.com,2025-10-15T14:58:03+00:00,Fix compile
+a842708eabc2226bf01749da7acfce1c27476229,Aaron Munger,2019016+amunger@users.noreply.github.com,2025-10-15T14:57:31+00:00,give inline notebook chat its own setting for using v2 controller (#270658)
+62ff0cceb433b4447e4459509bb75cdf1cc115c7,Baptiste Girardeau,contact@bgirardeau.me,2025-10-15T14:53:12+00:00,fix: resolve renamed paths on merge editor (#254677)
+6f141e6e8160f8d60049a1d67cd96e32c8216a84,Daniel Imms,2193314+Tyriar@users.noreply.github.com,2025-10-15T14:51:41+00:00,Use groupId in chat attachment hovers
+04079a1c9287e963848014bbdc1239f927974dee,Daniel Imms,2193314+Tyriar@users.noreply.github.com,2025-10-15T14:32:24+00:00,Upgrade managed hover to delayed hover in chat widgets
+a1d4cfa3d8dca89fbd2d4d510941d0853e44bdd8,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,2025-10-15T14:22:12+00:00,SCM - graph hover provided by extension (#271519)
+aceb7fe621c4cedf6c2f13d5b577e5a2217c9078,Logan Ramos,lramos15@gmail.com,2025-10-15T11:58:26+00:00,Fix model restoration logic (#271509)
+36f84aa3bcd066c52759c37037018fa5db4828ed,Johannes Rieken,johannes.rieken@gmail.com,2025-10-15T11:24:02+00:00,"fix compile errors, fyi @roblourens (#271503)"
+fb41f69a941d707ca233dded698299ce98bdbfa7,Piotr Rajnisz,56397164+rajniszp@users.noreply.github.com,2025-10-15T11:19:51+00:00,i18n: add missing localizations for monaco-editor (#268038)
+70c82b00a938a82ec62ff80c7f72f4b94b898ca2,Henning Dieterichs,hdieterichs@microsoft.com,2025-10-15T10:58:20+00:00,Fixes https://github.com/microsoft/monaco-editor/issues/4659 (#271497)
+2b00e85c86411c4d26896c489273d91a61767856,Mingpan,mingpan@google.com,2025-10-15T10:55:47+00:00,Copy selection for deleted chunk in inline diff (#267991)
+969455e7db659bbcff06a9704e13ae2c650ed8c7,Sandeep Somavarapu,sasomava@microsoft.com,2025-10-15T10:46:07+00:00,fix #270818 (#271494)
+6f0ee8f52165de5eceb00c49c07662807bd5461b,Lee Murray,mrleemurray@gmail.com,2025-10-15T10:26:08+00:00,Merge pull request #271486 from microsoft/mrleemurray/thorough-landfowl-teal
+0a70ffec1cb7d85eb0a4bcbd95cc34fe325512d2,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T10:25:41+00:00,chat - tweaks to accept/undo buttons (#271488)
+83e18c0ee635365b9cfeee300e5bb95728f6e979,Ulugbek Abdullaev,ulugbekna@gmail.com,2025-10-15T10:17:06+00:00,inline completions controller: feat: trigger on `insertLineAfter/Before` commands (#271283)
+3a81fd82ec92eb75448f48bd48bf5860110cf80e,mrleemurray,lee.murray@microsoft.com,2025-10-15T10:01:31+00:00,feat(codicons): add 'debug-connected' icon (0xec63) and update codicon.ttf
+3ca2d59c38113839d225ea9ad6055d1d5e3758a9,Dave Nicolson,david.nicolson@gmail.com,2025-10-15T09:44:24+00:00,Update activation event linter message (#269156)
+56d04418cc40471a8d329401d8dc91c3b6913975,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T09:33:44+00:00,chore - update `@vscode/iconv-lite-umd` to `0.7.1` (#271472)
+a72525b82a1e9d5f1f99333634882f2c7c3751d9,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,2025-10-15T09:33:05+00:00,Engineering - use sudo to remove the SUID bit (#271483)
+8d8a2936f43d1199c7256b64b9e0cd668a038e7a,Simon Siefke,simon.siefke@gmail.com,2025-10-15T09:05:50+00:00,fix: memory leak in output view (#221605)
+41cc8c5b2c81385642f68d2fd961036c43168bb8,Sandeep Somavarapu,sasomava@microsoft.com,2025-10-15T09:02:26+00:00,remove some resources from additional details - align with github mcp registry (#271474)
+1c35a4d05ca05a9218a4887d96ad314f9ea04a97,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-15T08:51:43+00:00,Enforce single quote string usage in extension tests
+472fe20604032e312592fac94cac9838ae03597a,Ladislau Szomoru,3372902+lszomoru@users.noreply.github.com,2025-10-15T08:32:15+00:00,Engineering - fix hard link error during SBOM generation (#271469)
+e1b305adb7c87f49382419af1b619ff42779b866,Sandeep Somavarapu,sasomava@microsoft.com,2025-10-15T08:25:45+00:00,support openSearch api (#271468)
+4b1087a5bacc0de41dcaf042ec860da032741a37,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T08:09:14+00:00,Cannot read properties of null (reading 'webContents') (fix #271157) (#271463)
+663e913a7abc4bec2826c7cf818745b04b824486,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T08:04:03+00:00,remote - only use `remote` kind for status entry when connected to a remote (#271461)
+9fd3e2a63f6d82b7044f7511c7c357a2ebdbed92,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T07:52:01+00:00,status - make icon size `16px` to align with the rest of workbench (#271460)
+e91079c1c6910f8c11253e1388185dfad56fab6a,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T07:49:39+00:00,chat - fix leaks in setup (#271459)
+407983b4c0e61f2073e5030aa47ed2c1226e8f92,Benjamin Pasero,benjamin.pasero@gmail.com,2025-10-15T07:45:23+00:00,debt - more any reduction (#271458)
+179cd04f2a05766ef518dc9e612d0f0b6118ee62,Robo,hop2deep@gmail.com,2025-10-15T07:10:40+00:00,ci: upload logs from azure test pipeline (#270843)
+f030344cf19e76e6b47d2d8ab003780a7fdb8171,Osvaldo Ortega,48293249+osortega@users.noreply.github.com,2025-10-15T04:42:44+00:00,Fix for empty name in chat sessions history (#270657)
+94e15a9bb978824c140732249ddbed4fe865d6ed,Elijah King,elijahwilliamking@icloud.com,2025-10-15T04:40:52+00:00,revised prompt titles and tile width (#271399)
+aa462d08c7283cd4b284a0b98a2efb3e9593f8b9,Rob Lourens,roblourens@gmail.com,2025-10-15T04:26:27+00:00,Add languageModelProxy proposal (#271436)
+83e551bc80c381ff971e365173655ab4c445c83d,Bhavya U,bhavyau@microsoft.com,2025-10-15T03:09:25+00:00,Fix todolist widget clearing (#271427)
+d9e1773e6a90da4a1d79852ab804f246b818358d,Dmitriy Vasyura,dmitriv@microsoft.com,2025-10-15T00:45:52+00:00,Merge pull request #270844 from microsoft/dev/dmitriv/go-to-offset
+6903774c01085f8a673f3cbefce6bea369694df7,Dmitriy Vasyura,dmitriv@microsoft.com,2025-10-14T23:44:32+00:00,Merge branch 'main' into dev/dmitriv/go-to-offset
+84b1589954c53bda117bd14dd7bbb7e406c07826,Dmitriy Vasyura,dmitriv@microsoft.com,2025-10-14T23:43:29+00:00,PR feedback
+7ecd15f2294a2d6dadf9f53da273fe5390e14b00,Bryan Chen,brchen@microsoft.com,2025-10-14T23:28:59+00:00,Removed unexpected change.
+a93b8efb1220ea01a1c200de343012c42f215d69,Bryan Chen,brchen@microsoft.com,2025-10-14T23:20:58+00:00,Respect editor auto-closing/quotes/surround settings in chat input.
+286a752f5ebce04eff8a3407ea32b196a6774c60,Tyler James Leonhardt,2644648+TylerLeonhardt@users.noreply.github.com,2025-10-14T23:06:20+00:00,Use CIMD if supported (#271403)
+62fdb96028eb57f92ef8fce7564f8f0bfac7162e,Sandeep Somavarapu,sasomava@microsoft.com,2025-10-14T22:46:26+00:00,adopt to mcp registry v0.1 (#271405)
+9116007eee6eaf55be5c1bafe4c417fea5c371b6,Justin Chen,54879025+justschen@users.noreply.github.com,2025-10-14T22:12:05+00:00,finalize `languageModelDataPart` and tools api (#265537)
+3da68ef571537dc954ef5f3411c469c2cd486e88,Aaron Munger,2019016+amunger@users.noreply.github.com,2025-10-14T21:42:49+00:00,use full associated resource (#271394)
+213c722f8664338bb0e0dae60fb5ebda1b87d1f3,Logan Ramos,lramos15@gmail.com,2025-10-14T21:30:36+00:00,Send first request to selected model (#271398)
+80163d7e4213724f61bf2ab605603865400043ca,Connor Peet,copeet@microsoft.com,2025-10-14T20:09:30+00:00,mcp: fix invalid 'activating extensions' state after autostart is already done (#271389)
+a334da1dd6c0ea28228359f8cc05f2ba9f796d50,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-14T19:39:33+00:00,Merge pull request #271380 from mjbvz/dev/mjbvz/continued-capybara
+98ad0f55dbfd0239a1c0510a0529020fbd3072ae,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-14T19:14:28+00:00,Proper fix for missing node types in web build
+359fa23b39bb37e5157e99c2bc5fc81088dd8431,Logan Ramos,lramos15@gmail.com,2025-10-14T19:12:48+00:00,First round of caching of the model picker (#271376)
+6699439de03b159e967980b021622eefca03e8eb,Matt Bierner,12821956+mjbvz@users.noreply.github.com,2025-10-14T19:11:14+00:00,Merge pull request #271375 from mjbvz/dev/mjbvz/hissing-tapir

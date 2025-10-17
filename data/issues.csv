@@ -1,0 +1,85 @@
+id,number,title,user,state,created_at,closed_at,comments,open_duration_days
+3523921670,271858,launch cli in terminal directly requires /login,rebornix,open,2025-10-17T00:07:25+00:00,,0,
+3523905084,271857,mcp autostart: make it configurable on a per-server basis,skissane-medallia,open,2025-10-17T00:02:13+00:00,,0,
+3523866745,271855,chat,yamisenseimaster,open,2025-10-16T23:47:29+00:00,,2,
+3523847061,271852,Cannot read properties of undefined (reading 'toLowerCase'),craxal,open,2025-10-16T23:38:42+00:00,,0,
+3523791859,271850,jsdoc hyphens after a @param tag are not fully ignored,marcustyphoon,open,2025-10-16T23:12:34+00:00,,0,
+3523761054,271848,error,ThreeOneOneZero,closed,2025-10-16T22:58:25+00:00,2025-10-16T23:05:05+00:00,1,0.004629629629629629
+3523754664,271847,Cannot read properties of ,smitchamwork,closed,2025-10-16T22:55:54+00:00,2025-10-16T23:05:11+00:00,2,0.006446759259259259
+3523754098,271846,Getting response Cannot read properties of undefined (reading 'toLowerCase'),freos08,closed,2025-10-16T22:55:41+00:00,2025-10-16T23:05:49+00:00,1,0.007037037037037037
+3523753973,271844,"Dozens of git.exe processes in Windows repo, leading to system thrash",headerjson,open,2025-10-16T22:55:39+00:00,,0,
+3523748723,271843,Github copilot Chat not sending requests,dipakboyed,open,2025-10-16T22:52:58+00:00,,3,
+3523744196,271842,Unable to Sign in via github,brucetan-displayr,open,2025-10-16T22:49:58+00:00,,0,
+3523742931,271841,cannot send message,MahmoudMetwally2699,closed,2025-10-16T22:49:00+00:00,2025-10-16T23:06:23+00:00,1,0.01207175925925926
+3523741628,271840,lỗi không thể gửi chat,nguyenthanhbinh0411,closed,2025-10-16T22:48:22+00:00,2025-10-16T23:06:26+00:00,3,0.012546296296296297
+3523740742,271839,lỗi không thể gửi chat,nguyenthanhbinh0411,closed,2025-10-16T22:47:51+00:00,2025-10-16T23:06:28+00:00,3,0.01292824074074074
+3523738400,271837,Port Forwarding,anasyd,open,2025-10-16T22:46:23+00:00,,0,
+3523728870,271836,Chat sidebar not working,SantoStorace,closed,2025-10-16T22:39:37+00:00,2025-10-16T22:42:47+00:00,2,0.002199074074074074
+3523727729,271835,Cannot send chat message to agent,elfuerte211,closed,2025-10-16T22:38:48+00:00,2025-10-16T23:06:32+00:00,8,0.01925925925925926
+3523722265,271834,Doesnt give an anwser,sioXD,closed,2025-10-16T22:35:30+00:00,2025-10-16T23:06:35+00:00,1,0.02158564814814815
+3523722228,271833,Chat not working,JennyTheGem,closed,2025-10-16T22:35:28+00:00,2025-10-16T23:06:37+00:00,1,0.021631944444444443
+3523715470,271832,Cannot read properties of undefined (reading 'toLowerCase'),EnderGamer6112,closed,2025-10-16T22:31:33+00:00,2025-10-16T23:06:39+00:00,2,0.024375
+3523695811,271830,GitHub Copilot Chat Fails with 'toLowerCase' Error,peombwa,closed,2025-10-16T22:21:56+00:00,2025-10-16T23:06:41+00:00,2,0.03107638888888889
+3523690161,271829,cannot read properties of undefined(reading'toLowerCase'),Cruzjoseandres,closed,2025-10-16T22:19:37+00:00,2025-10-16T23:06:43+00:00,1,0.03270833333333333
+3523690154,271828,cannot read properties of undefined(reading'toLowerCase'),Cruzjoseandres,closed,2025-10-16T22:19:37+00:00,2025-10-16T23:06:45+00:00,1,0.03273148148148148
+3523689684,271827,Unresponsive,stippets,closed,2025-10-16T22:19:21+00:00,2025-10-16T23:06:48+00:00,1,0.03295138888888889
+3523685279,271826,Cannot read properties of undefined (reading 'toLowerCase'),oimiragieo,closed,2025-10-16T22:17:17+00:00,2025-10-16T23:06:50+00:00,2,0.034409722222222223
+3523681794,271825,Error message in github copilot,Eavilesz,closed,2025-10-16T22:15:27+00:00,2025-10-16T23:06:53+00:00,2,0.03571759259259259
+3523674660,271824,error: Cannot read properties of undefined (reading 'toLowerCase'),mrelkhadiri,closed,2025-10-16T22:12:44+00:00,2025-10-16T23:06:55+00:00,1,0.037627314814814815
+3523671946,271823,Cannot read properties of undefined (reading 'toLowerCase'),Ricardozambranol,closed,2025-10-16T22:11:18+00:00,2025-10-16T23:06:58+00:00,2,0.038657407407407404
+3523664451,271822,GitHub Copilot Chat hangs on “Activating MCP extensions” and never completes,alexmourer,open,2025-10-16T22:07:38+00:00,,1,
+3523651008,271821,can't chat with ai,avis-mu,closed,2025-10-16T22:02:29+00:00,2025-10-16T22:06:38+00:00,2,0.0028819444444444444
+3523644998,271820,No me deja hacer nada se daño el chat,AnthonyGamez28,closed,2025-10-16T21:59:47+00:00,2025-10-16T22:06:44+00:00,2,0.004826388888888889
+3523636811,271819,Copilot chat is broken since today morning on desktop version of Visual Studio Code. Unable to send any message to Copilot through Chat (enter key wouldn't work as well). It probably won't reproduce on another computer,KarishmaGhiya,closed,2025-10-16T21:55:48+00:00,2025-10-16T22:06:51+00:00,2,0.007673611111111111
+3523629047,271818,Broken paid github copilot,Bsebring,closed,2025-10-16T21:53:00+00:00,2025-10-16T21:55:03+00:00,1,0.0014236111111111112
+3523614763,271817,still getting error on every request,taylor-barron,closed,2025-10-16T21:46:02+00:00,2025-10-16T21:52:15+00:00,1,0.00431712962962963
+3523614384,271816,Co-polot chat is not working,AlifSakib,closed,2025-10-16T21:45:49+00:00,2025-10-16T21:52:42+00:00,1,0.004780092592592593
+3523607234,271815,THEFUCK CANT USE CHAT AT ALL,c3llus,closed,2025-10-16T21:42:44+00:00,2025-10-16T21:43:47+00:00,2,0.0007291666666666667
+3523603555,271814,"can't send any requests in copilot chat. getting this  ""Cannot read properties of undefined (reading 'toLowerCase')""",abdulhussain156,closed,2025-10-16T21:40:55+00:00,2025-10-16T21:43:53+00:00,3,0.0020601851851851853
+3523597737,271813,Add search or find feature to github copilot chat,rolansy,open,2025-10-16T21:38:20+00:00,,0,
+3523595360,271812,MCP: roots and ${workspaceFolder} drive letter inconsistency on Windows,pavelfeldman,open,2025-10-16T21:37:15+00:00,,1,
+3523594571,271811,NOT FOLLOWING INSTRUCTIONS,KeFur-Clone,open,2025-10-16T21:36:55+00:00,,1,
+3523585939,271809,No está respondiendo mis preguntas,AlexisTemoche,closed,2025-10-16T21:33:15+00:00,2025-10-16T21:44:04+00:00,2,0.007511574074074074
+3523585926,271808,No está respondiendo mis preguntas,AlexisTemoche,closed,2025-10-16T21:33:15+00:00,2025-10-16T21:44:07+00:00,2,0.007546296296296297
+3523580755,271807,Error on all chat requests,hersdani,closed,2025-10-16T21:31:15+00:00,2025-10-16T21:44:09+00:00,2,0.008958333333333334
+3523577406,271805,Error using Copilot Chat,aurelianm,closed,2025-10-16T21:30:09+00:00,2025-10-16T21:30:39+00:00,1,0.00034722222222222224
+3523576971,271804,My Copilot just stop working,schmelik,closed,2025-10-16T21:30:06+00:00,2025-10-16T21:30:46+00:00,2,0.000462962962962963
+3523573777,271803,I can't send menssages ,Br4ikanUserP267,closed,2025-10-16T21:28:23+00:00,2025-10-16T21:29:46+00:00,1,0.0009606481481481482
+3523568196,271802,Cannot use Copilot,Josssszzzz,closed,2025-10-16T21:26:17+00:00,2025-10-16T21:29:34+00:00,1,0.0022800925925925927
+3523563567,271801,El chat no funciona,EliasAGM,closed,2025-10-16T21:24:15+00:00,2025-10-16T21:26:06+00:00,2,0.0012847222222222223
+3523542337,271800,Cannot read properties of undefined (reading 'toLowerCase'),beprimeangel,closed,2025-10-16T21:16:48+00:00,2025-10-16T21:22:41+00:00,2,0.004085648148148148
+3523527014,271798,problem,mosis-eng,closed,2025-10-16T21:11:37+00:00,2025-10-16T21:13:05+00:00,1,0.0010185185185185184
+3523511365,271797,don't answer,4lexRossi,closed,2025-10-16T21:05:58+00:00,2025-10-16T21:13:09+00:00,2,0.004988425925925926
+3523507487,271796,error on every request,taylor-barron,closed,2025-10-16T21:04:21+00:00,2025-10-16T21:04:37+00:00,3,0.00018518518518518518
+3523497355,271794,recieving error cannot read properties of undefined(reading 'toLowerCase'),jorgs,closed,2025-10-16T21:00:47+00:00,2025-10-16T21:03:08+00:00,2,0.0016319444444444445
+3523490629,271793,CoPilot Not Responding,matthewcsimpson,closed,2025-10-16T20:58:08+00:00,2025-10-16T21:00:24+00:00,1,0.001574074074074074
+3523484528,271792,Cannot read properties of undefined (reading 'toLowerCase'),drewbeckwithmcleod,closed,2025-10-16T20:55:35+00:00,2025-10-16T21:00:26+00:00,2,0.0033680555555555556
+3523479959,271791,Gutter diff decorations disappear in VS Code 1.105 on Windows 11 build 26200+,joshuadavidmcgee,open,2025-10-16T20:53:33+00:00,,0,
+3523471961,271790,All outgoing chats are failing,will-passidomo-sh,closed,2025-10-16T20:50:08+00:00,2025-10-16T20:58:01+00:00,1,0.005474537037037037
+3523469877,271789,CoPilot just stopped working ,f1ss1on,closed,2025-10-16T20:49:11+00:00,2025-10-16T20:49:58+00:00,1,0.0005439814814814814
+3523468735,271788,terminal,auta5816-eng,open,2025-10-16T20:48:40+00:00,,0,
+3523467622,271787,GitHub Copilot não responde,Viteit,closed,2025-10-16T20:48:09+00:00,2025-10-16T20:50:04+00:00,3,0.0013310185185185185
+3523465343,271785,Bug,SergioSanga,closed,2025-10-16T20:47:11+00:00,2025-10-16T20:58:10+00:00,2,0.007627314814814815
+3523464476,271784,"bug of copilot, stopped working",joaobasante,closed,2025-10-16T20:46:51+00:00,2025-10-16T20:50:11+00:00,3,0.0023148148148148147
+3523462390,271783,Copilot Not Responding,ehuertaaa,closed,2025-10-16T20:45:58+00:00,2025-10-16T20:50:19+00:00,1,0.0030208333333333333
+3523455941,271782,Not working,Pign4,closed,2025-10-16T20:43:18+00:00,2025-10-16T20:50:24+00:00,1,0.004930555555555555
+3523450372,271780,Copilot Chat is Unresponsive,yoyomeng2,closed,2025-10-16T20:41:10+00:00,2025-10-16T20:50:36+00:00,1,0.006550925925925926
+3523449895,271779,Copilot Chat Not Working | Inline Chat Returns Undefined Error,aplomBomb,closed,2025-10-16T20:40:58+00:00,2025-10-16T20:58:15+00:00,1,0.012002314814814815
+3523438836,271778,chat never work,HenriqueSalgueiron,closed,2025-10-16T20:36:57+00:00,2025-10-16T20:58:25+00:00,2,0.014907407407407407
+3523430719,271777,BUG,EmreTopcu04,open,2025-10-16T20:34:26+00:00,,1,
+3523414784,271776,Copilot Chat Response: Error Msg,sinagilassi,closed,2025-10-16T20:28:20+00:00,2025-10-16T20:28:48+00:00,1,0.00032407407407407406
+3523409951,271774,Not responding,matthewcsimpson,closed,2025-10-16T20:26:33+00:00,2025-10-16T20:55:07+00:00,1,0.019837962962962963
+3523407823,271773,Cannot read properties of undefined (reading 'toLowerCase'),edupat95,closed,2025-10-16T20:25:48+00:00,2025-10-16T20:28:56+00:00,2,0.0021759259259259258
+3523393426,271772,Getting read properties of undefined error,F-Saeed,closed,2025-10-16T20:20:11+00:00,2025-10-16T20:23:15+00:00,1,0.0021296296296296298
+3523373231,271771,Copilot Chat stopped working,zliang-akamai,closed,2025-10-16T20:13:12+00:00,2025-10-16T20:15:14+00:00,1,0.001412037037037037
+3523355628,271769,delete this please,Vidi1969,closed,2025-10-16T20:06:37+00:00,2025-10-16T20:22:21+00:00,0,0.010925925925925926
+3523354881,271768,"freeze with ""Getting chat ready"" message",JChaski,open,2025-10-16T20:06:19+00:00,,2,
+3523345637,271767,produced duplicate code,P1x37Segfault,open,2025-10-16T20:03:16+00:00,,1,
+3523335861,271766,Send button not responding,usman710,closed,2025-10-16T20:00:33+00:00,2025-10-16T21:44:32+00:00,6,0.07221064814814815
+3523329792,271765,Bug Cannot read properties of undefined (reading 'toLowerCase'),FranciscoPS,closed,2025-10-16T19:58:40+00:00,2025-10-16T20:18:33+00:00,3,0.01380787037037037
+3523319642,271764,GITHUB COPILOT ISNT WORKING,NeuraAdm,closed,2025-10-16T19:55:23+00:00,2025-10-16T20:28:24+00:00,2,0.022928240740740742
+3523308377,271763,Testing MCP Server running locally is a buggy in VS Code.,surmetla,open,2025-10-16T19:52:24+00:00,,1,
+3523306416,271762,"All prompts fails with ""Cannot read properties of undefined (reading 'toLowerCase')""",farmas,closed,2025-10-16T19:51:53+00:00,2025-10-16T20:29:08+00:00,5,0.025868055555555554
+3523299563,271761,Copilot is not taking input,Khushal-Me,closed,2025-10-16T19:50:04+00:00,2025-10-16T20:59:26+00:00,8,0.048171296296296295
+3523299495,271760,Erro: Cannot read properties of undefined (reading 'toLowerCase'),PagnoDev,closed,2025-10-16T19:50:01+00:00,2025-10-16T20:20:57+00:00,1,0.02148148148148148
+3523293469,271759,Agent mode not working on message,RafaelMoro,closed,2025-10-16T19:48:31+00:00,2025-10-16T20:12:52+00:00,4,0.016909722222222222
